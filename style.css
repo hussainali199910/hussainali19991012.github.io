@@ -1,0 +1,24 @@
+body
+{
+	box-sizing: border-box;
+	margin: 0px;
+	justify-content: center;
+	align-items: center;
+	font-family: sans-serif;
+}
+img.align-center
+{
+	margin: 0px;
+}
+.scene
+{
+	position: relative;
+	width: auto;
+	max-hieght: 100%;
+	max-width: 100%;
+	display: block;
+	margin: auto;
+	justify-content: center;
+	align-items: center;
+	font-family: sans-serif
+}
